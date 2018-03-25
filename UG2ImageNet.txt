@@ -1,0 +1,229 @@
+ID	UG2Class	INetDesc
+n02690373	Aircraft	airliner
+n04266014	Aircraft	space shuttle
+n04552348	Aircraft	warplane, military plane
+n04592741	Aircraft	wing
+n02708093	AnalogClock	analog clock
+n04486054	Arch	triumphal arch
+n02788148	Bannister	bannister, banister, balustrade, balusters, handrail
+n03792782	Bicycle	mountain bike, all-terrain bike, off-roader
+n02835271	Bicycle	bicycle-built-for-two, tandem bicycle, tandem
+n02009229	Bird	little blue heron, Egretta caerulea
+n01582220	Bird	magpie
+n02037110	Bird	oystercatcher, oyster catcher
+n01807496	Bird	partridge
+n01796340	Bird	ptarmigan
+n02027492	Bird	red-backed sandpiper, dunlin, Erolia alpina
+n02006656	Bird	spoonbill
+n02028035	Bird	redshank, Tringa totanus
+n01558993	Bird	robin, American robin, Turdus migratorius
+n01797886	Bird	ruffed grouse, partridge, Bonasa umbellus
+n02013706	Bird	limpkin, Aramus pictus
+n01819313	Bird	sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+n01601694	Bird	water ouzel, dipper
+n01855032	Bird	red-breasted merganser, Mergus serrator
+n01608432	Bird	kite
+n02025239	Bird	ruddy turnstone, Arenaria interpres
+n01843065	Bird	jacamar
+n02011460	Bird	bittern
+n01828970	Bird	bee eater
+n02009912	Bird	American egret, great white heron, Egretta albus
+n02018207	Bird	American coot, marsh hen, mud hen, water hen, Fulica americana
+n01795545	Bird	black grouse
+n01530575	Bird	brambling, Fringilla montifringilla
+n01560419	Bird	bulbul
+n01817953	Bird	African grey, African gray, Psittacus erithacus
+n02018795	Bird	bustard
+n01824575	Bird	coucal
+n02033041	Bird	dowitcher
+n01847000	Bird	drake
+n02017213	Bird	European gallinule, Porphyrio porphyrio
+n01531178	Bird	goldfinch, Carduelis carduelis
+n01855672	Bird	goose
+n01829413	Bird	hornbill
+n01537544	Bird	indigo bunting, indigo finch, indigo bird, Passerina cyanea
+n01592084	Bird	chickadee
+n01580077	Bird	jay
+n04273569	Boat	speedboat
+n04612504	Boat	yawl
+n04606251	Boat	wreck
+n04483307	Boat	trimaran
+n03947888	Boat	pirate, pirate ship
+n03673027	Boat	liner, ocean liner
+n03662601	Boat	lifeboat
+n03447447	Boat	gondola
+n03344393	Boat	fireboat
+n03095699	Boat	container ship, containership, container vessel
+n02981792	Boat	catamaran
+n02951358	Boat	canoe
+n02687172	Boat	aircraft carrier, carrier, flattop, attack aircraft carrier
+n04147183	Boat	schooner
+n03933933	Bridge	pier
+n04311004	Bridge	steel arch bridge
+n04366367	Bridge	suspension bridge
+n03977966	Car1	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n04037443	Car1	racer, race car, racing car
+n04065272	Car1	recreational vehicle, RV, R.V.
+n04146614	Car1	school bus
+n03930630	Car1	pickup, pickup truck
+n04335435	Car1	streetcar, tram, tramcar, trolley, trolley car
+n04461696	Car1	tow truck, tow car, wrecker
+n04467665	Car1	trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+n04487081	Car1	trolleybus, trolley coach, trackless trolley
+n04285008	Car1	sports car, sport car
+n03895866	Car1	passenger car, coach, carriage
+n03345487	Car1	fire engine, fire truck
+n03777568	Car1	Model T
+n02704792	Car1	amphibian, amphibious vehicle
+n02814533	Car1	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n02930766	Car1	cab, hack, taxi, taxicab
+n03100240	Car1	convertible
+n02701002	Car1	ambulance
+n03796401	Car1	moving van
+n03417042	Car1	garbage truck, dustcart
+n03445924	Car1	golfcart, golf cart
+n03594945	Car1	jeep, landrover
+n03670208	Car1	limousine, limo
+n03769881	Car1	minibus
+n03770679	Car1	minivan
+n03776460	Car1	mobile home, manufactured home
+n03444034	Car1	go-kart
+n03769881	Car2	minibus
+n03770679	Car2	minivan
+n03796401	Car2	moving van
+n03777568	Car2	Model T
+n03670208	Car2	limousine, limo
+n03776460	Car2	mobile home, manufactured home
+n03594945	Car2	jeep, landrover
+n02704792	Car2	amphibian, amphibious vehicle
+n03417042	Car2	garbage truck, dustcart
+n03345487	Car2	fire engine, fire truck
+n03100240	Car2	convertible
+n02930766	Car2	cab, hack, taxi, taxicab
+n02814533	Car2	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n03895866	Car2	passenger car, coach, carriage
+n02701002	Car2	ambulance
+n03444034	Car2	go-kart
+n03930630	Car2	pickup, pickup truck
+n04461696	Car2	tow truck, tow car, wrecker
+n04037443	Car2	racer, race car, racing car
+n04065272	Car2	recreational vehicle, RV, R.V.
+n04146614	Car2	school bus
+n04285008	Car2	sports car, sport car
+n04335435	Car2	streetcar, tram, tramcar, trolley, trolley car
+n04467665	Car2	trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+n04487081	Car2	trolleybus, trolley coach, trackless trolley
+n03977966	Car2	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n03000134	ChainlinkFence	chainlink fence
+n03781244	Church	monastery
+n03028079	Church	church, church building
+n04252225	ConstructionMachinery	snowplow, snowplough
+n03532672	ConstructionMachinery	hook, claw
+n03384352	ConstructionMachinery	forklift
+n02012849	ConstructionMachinery	crane
+n02859443	Dock	boathouse
+n03216828	Dock	dock, dockage, docking facility
+n02093256	Dog	Staffordshire bullterrier, Staffordshire bull terrier
+n02107142	Dog	Doberman, Doberman pinscher
+n02109047	Dog	Great Dane
+n02099601	Dog	golden retriever
+n02106662	Dog	German shepherd, German shepherd dog, German police dog, alsatian
+n02099267	Dog	flat-coated retriever
+n02109961	Dog	Eskimo dog, husky
+n02100735	Dog	English setter
+n02094433	Dog	Yorkshire terrier
+n02110341	Dog	dalmatian, coach dog, carriage dog
+n02114855	Dog	coyote, prairie wolf, brush wolf, Canis latrans
+n02101388	Dog	Brittany spaniel
+n02108089	Dog	boxer
+n02106382	Dog	Bouvier des Flandres, Bouviers des Flandres
+n02106166	Dog	Border collie
+n02113712	Dog	miniature poodle
+n02110806	Dog	basenji
+n02116738	Dog	African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
+n02086079	Dog	Pekinese, Pekingese, Peke
+n02114712	Dog	red wolf, maned wolf, Canis rufus, Canis niger
+n02087394	Dog	Rhodesian ridgeback
+n02092002	Dog	Scottish deerhound, deerhound
+n02113799	Dog	standard poodle
+n02108551	Dog	Tibetan mastiff
+n02114367	Dog	timber wolf, grey wolf, gray wolf, Canis lupus
+n02100583	Dog	vizsla, Hungarian pointer
+n02114548	Dog	white wolf, Arctic wolf, Canis lupus tundrarum
+n02096294	Dog	Australian terrier
+n02111277	Dog	Newfoundland, Newfoundland dog
+n03220513	Dome	dome
+n03967562	FarmMachines	plow, plough
+n03496892	FarmMachines	harvester, reaper
+n04465501	FarmMachines	tractor
+n04428191	FarmMachines	thresher, thrasher, threshing machine
+n04604644	Fence	worm fence, snake fence, snake-rail fence, Virginia fence
+n03930313	Fence	picket fence, paling
+n03000134	Fence	chainlink fence
+n02788148	Fence	bannister, banister, balustrade, balusters, handrail
+n03355925	Flagpost	flagpole, flagstaff
+n03991062	FlowerPot	pot, flowerpot
+n03388043	Fountain	fountain
+n03903868	FountainMonument	pedestal, plinth, footstall
+n03388043	FountainMonument	fountain
+n03445924	Golfcart	golfcart, golf cart
+n03457902	Greenhouse	greenhouse, nursery, glasshouse
+n02814860	Lighthouse	beacon, lighthouse, beacon light, pharos
+n02395406	Livestock	hog, pig, grunter, squealer, Sus scrofa
+n02437616	Livestock	llama
+n02389026	Livestock	sorrel
+n02412080	Livestock	ram, tup
+n02403003	Livestock	ox
+n02397096	Livestock	warthog
+n02410509	Livestock	bison
+n02415577	Livestock	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n09246464	Mountain	cliff, drop, drop-off
+n09468604	Mountain	valley, vale
+n09472597	Mountain	volcano
+n09193705	Mountain	alp
+n09399592	Mountain	promontory, headland, head, foreland
+n03837869	Obelisk	obelisk
+n04458633	Obelisk	totem pole
+n03791053	OtherLandVehicle	motor scooter, scooter
+n03785016	OtherLandVehicle	moped
+n03393912	OtherLandVehicle	freight car
+n02860847	OtherLandVehicle	bobsled, bobsleigh, bob
+n03218198	OtherLandVehicle	dogsled, dog sled, dog sleigh
+n02917067	OtherLandVehicle	bullet train, bullet
+n02835271	OtherLandVehicle	bicycle-built-for-two, tandem bicycle, tandem
+n03792782	OtherLandVehicle	mountain bike, all-terrain bike, off-roader
+n03272562	OtherLandVehicle	electric locomotive
+n03868242	OtherLandVehicle	oxcart
+n03538406	OtherLandVehicle	horse cart, horse-cart
+n04310018	OtherLandVehicle	steam locomotive
+n04482393	OtherLandVehicle	tricycle, trike, velocipede
+n04252077	OtherLandVehicle	snowmobile
+n04346328	Palace	stupa, tope
+n03956157	Palace	planetarium
+n02980441	Palace	castle
+n03788195	Palace	mosque
+n03220513	Palace	dome
+n03877845	Palace	palace
+n03888257	Parachute	parachute, chute
+n03891251	ParkBench	park bench
+n03899768	Patio	patio, terrace
+n03355925	Pole	flagpole, flagstaff
+n03976657	Pole	pole
+n04417672	Roof	thatch, thatched roof
+n04435653	Roof	tile roof
+n03042490	Ruins	cliff dwelling
+n09332890	Shore	lakeside, lakeshore
+n09428293	Shore	seashore, coast, seacoast, sea-coast
+n09421951	Shore	sandbar, sand bar
+n04326547	StoneWall	stone wall
+n06794110	StreetSign	street sign
+n06874185	StreetSigns	traffic light, traffic signal, stoplight
+n06794110	StreetSigns	street sign
+n04371774	Swing	swing
+n03792972	Tent	mountain tent
+n02747177	Trashcan	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+n04507155	Umbrella	umbrella
+n04326547	Wall	stone wall
+n02894605	Wall	breakwater, groin, groyne, mole, bulwark, seawall, jetty
+n04562935	WaterTower	water tower
+n04613696	Yurt	yurt
